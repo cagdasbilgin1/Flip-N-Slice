@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Obstacle
+  - Knife
+  - Cuttable
+  - Killer
+  - CuttableDouble
+  - ScoreBoard
   layers:
   - Default
   - TransparentFX
